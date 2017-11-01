@@ -41,7 +41,7 @@ function drawChart() {
     chart.draw(dataTable, options);
 }
 $(window).on('resizeEnd', function() {
-    drawChart(data);
+    drawChart();
 });
 $(window).resize(function() {
     if(this.resizeTO) clearTimeout(this.resizeTO);
