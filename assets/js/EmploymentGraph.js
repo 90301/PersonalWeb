@@ -27,7 +27,7 @@ function drawChart() {
         [ 'Contract Work', 'Private Tutor',  new Date(2016, 1, 1),  new Date(2017,6,1) ],
         [ 'Contract Work', 'Leapforce',  new Date(2013, 5, 1),  new Date(2015,10,30) ],
         [ 'Entrepreneurial', 'Style Connect',  new Date(2016, 6, 1),  new Date(2017,8,1) ],
-        [ 'Entrepreneurial', 'BluechipAI',  new Date(2017, 8, 1),  new Date() ]
+        [ 'Entrepreneurial', 'Bluechip AI',  new Date(2017, 8, 1),  new Date() ]
 
 
     ]);
